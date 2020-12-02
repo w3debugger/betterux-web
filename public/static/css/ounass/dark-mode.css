@@ -1,0 +1,74 @@
+body, .TabView-tab, .Select-control, .Product-hoverPartial {
+  background: #1c1c1e !important;
+  color: #fff !important;
+}
+
+.SellingPoints, .ProductNavigation, .PLP-resultsHeader, .SelectConfigurables, .GeneralFacet-searchField input[type=text], .PriceFacet-input, .HeroBanner-cta {
+  background: transparent !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #111 !important;
+}
+
+::-webkit-scrollbar-track, .BaseFooter:before, .TabView-tab.is-selected, .TabView, .BreadcrumbList, .AppDownload, .AmberProgram, .HeroBanner-container, .SiteNavigation:before, .BoxSlider:after, .CheckboxLabel.default input[type=checkbox] {
+  background: #2c2c2e !important;
+}
+
+.AddToBag {
+  background: #d96741 !important;
+}
+
+.NewsletterForm input[type=email] {
+  background: #48484a !important;
+}
+
+.TabView.TabView__default .TabView-content, .HelpBanner-actionTitle, .HelpBanner-bannerTitle, .AddToWishList-text, .Select-placeholder, .InstallmentPlanDesktop-link, .OurPricePromise-button, .EarnAmberPoints-points, .Brief-brand, .PriceFacet-title, .ColorFacet-title, .GeneralFacet-title, .PLP-title a, .Product-brand, .L2Category-link, .HeroBanner-title, .Banner-caption, .SellingPoints-title, .GeneralFacet-searchField input[type=text], .PriceFacet-input  {
+  color: #fff !important;
+}
+
+.ProductNavigation-logoSlogan {
+  color: #ababab !important;
+}
+
+.CheckboxLabel-text, .CheckboxLabel.default .CheckboxLabel-text, .Product-name, .HeroBanner-description {
+  color: #e4e4e4 !important;
+}
+
+.SizeSelection-sizeGuideLinkText, .InstallmentPlanDesktop-linkLearnMore, .Brief-minPrice, .learn-more, .BaseFooter-customerCareNumber, .Product-minPrice, .CarouselList-itemSeeAll, .PDP-staticLink, .Popup-iconText, .CheckboxLabelList-showAllLink {
+  color: #d96741 !important;
+}
+
+.TabView.TabView__default .TabView-tab, .TabView-content, .Select-control, .CategoryNavigation, .QuickSearch-inputContainer {
+  border-color: #48484a !important;
+}
+
+.CheckboxLabel.default input[type=checkbox] {
+  border-color: #333 !important;
+}
+
+.svgIcon, .OurPricePromise > svg, .ProductNavigation-logo > svg {
+  filter: brightness(1) invert(1) !important;
+}
+
+.svg-stroke {
+  stroke: white !important;
+  fill: none !important;
+}
+
+.HeroBanner-container {
+  padding-bottom: 35px !important;
+}
+
+.HeroBanner-cta {
+  text-decoration: underline !important;
+}
+
+.AppDownload, .AmberProgram {
+  border: none !important;
+}
+
+.Product-media {
+  border-radius: 3px !important;
+  overflow: hidden !important;
+}

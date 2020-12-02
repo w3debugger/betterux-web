@@ -1,0 +1,26 @@
+.site {
+  &:not(:first-child) {
+    padding-top: 60px;
+    border-top: 2px solid var(--color-grey);
+    margin-top: 60px;
+  }
+
+  &-header {
+    background-color: rgba(#111, 0.95);
+    //padding-top: 15px;
+    //padding-bottom: 15px;
+  }
+
+  &-title {
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: normal;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  &-seeAll {
+    text-decoration: none;
+    color: inherit;
+  }
+}

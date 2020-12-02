@@ -1,0 +1,13 @@
+.header {
+  padding-bottom: 60px;
+  border-bottom: 2px solid var(--color-grey);
+  margin-bottom: 60px;
+
+  &-logo {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 40px;
+    text-decoration: none;
+    color: var(--color-primary);
+  }
+}

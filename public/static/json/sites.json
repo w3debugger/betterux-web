@@ -1,0 +1,50 @@
+[
+  {
+    "url": "github",
+    "title": "Github",
+    "variations": [
+      {
+        "url": "dark-mode",
+        "title": "Dark Mode",
+        "image": "https://betterux.io/static/images/github/dark-mode/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "galleryCount": 1
+      }
+    ]
+  },
+  {
+    "url": "google",
+    "title": "Google",
+    "variations": [
+      {
+        "url": "dark-mode",
+        "title": "Dark Mode",
+        "image": "https://betterux.io/static/images/google/dark-mode/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "galleryCount": 2
+      }
+    ]
+  },
+  {
+    "url": "ounass",
+    "title": "Ounass",
+    "variations": [
+      {
+        "url": "dark-mode",
+        "title": "Dark Mode",
+        "image": "https://betterux.io/static/images/ounass/dark-mode/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "galleryCount": 1
+      }
+    ]
+  },
+  {
+    "url": "soundcloud",
+    "title": "Soundcloud",
+    "variations": [
+      {
+        "url": "more-items",
+        "title": "More Items",
+        "image": "https://betterux.io/static/images/soundcloud/more-items/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "galleryCount": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+:root {
+  --color-bg-canvas: #24292e;
+  --color-bg-primary: #24292e;
+  --color-bg-canvas-inset: #24292e;
+  --color-border-overlay: #1d2125;
+  --color-bg-secondary: #1d2125;
+  --color-border-secondary: #373e45;
+  --color-underlinenav-text: #fff;
+  --color-underlinenav-text-active: #fff;
+  --color-underlinenav-text-hover: #fff;
+  --color-box-header-blue-bg: #1d2125;
+  --color-box-header-blue-border: #373e45;
+  --color-bg-tertiary: #373e45;
+  --color-border-primary:#373e45;
+  --color-text-primary: white;
+  --color-btn-text: white;
+  --color-btn-bg: #24292e;
+  --color-bg-overlay: #24292e;
+  --color-btn-hover-bg: #24292e;
+  --color-social-count-bg: #24292e;
+}

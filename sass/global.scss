@@ -1,0 +1,46 @@
+@import 'grid';
+@import 'reset';
+@import 'display';
+@import 'utilities';
+@import 'variables';
+
+body {
+  background-color: var(--color-dark);
+  color: var(--color-light);
+  margin: 0;
+}
+
+a {
+  color: var(--color-primary);
+}
+
+iframe {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: 450px;
+  background-color: var(--color-lighter);
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  max-width: 1280px;
+  min-height: 100vh;
+  padding: 60px 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main {
+  flex-grow: 1;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}

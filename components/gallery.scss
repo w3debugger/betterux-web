@@ -1,0 +1,19 @@
+.gallery {
+  width: calc(823px - 30px);
+  border-radius: 6px;
+  margin-bottom: 60px;
+
+  &-title {
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: normal;
+    color: var(--color-lighter);
+  }
+
+  &-image {
+    display: block;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 15px;
+  }
+}

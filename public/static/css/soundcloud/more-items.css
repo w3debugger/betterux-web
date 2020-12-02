@@ -1,0 +1,24 @@
+body {
+  background: none!important;
+}
+
+.badgeList__item {
+  margin-bottom: 40px!important;
+  width: calc(100% / 12)!important;
+}
+
+.l-container.l-content {
+  width: auto!important;
+}
+
+.l-container.l-fullwidth {
+  width: 100%!important;
+}
+
+.playableTile {
+  padding-bottom: 0!important;
+}
+
+.playableTile__usernameHeadingContainer {
+  display: none!important;
+}

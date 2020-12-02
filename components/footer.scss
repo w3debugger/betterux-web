@@ -1,0 +1,9 @@
+.footer {
+  padding-top: 60px;
+  border-top: 2px solid var(--color-grey);
+  margin-top: 60px;
+
+  &-link {
+    color: var(--color-secondary);
+  }
+}
