@@ -6,7 +6,7 @@
       {
         "url": "dark-mode",
         "title": "Dark Mode",
-        "image": "https://betterux.io/static/images/github/dark-mode/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "image": "https://betterux.io/static/images/github/dark-mode/thumb.jpg?b589dadb4be2f7a20187832ce334b1fde4db0485",
         "galleryCount": 1
       }
     ]
@@ -18,7 +18,7 @@
       {
         "url": "dark-mode",
         "title": "Dark Mode",
-        "image": "https://betterux.io/static/images/google/dark-mode/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "image": "https://betterux.io/static/images/google/dark-mode/thumb.jpg?b589dadb4be2f7a20187832ce334b1fde4db0485",
         "galleryCount": 2
       }
     ]
@@ -30,7 +30,7 @@
       {
         "url": "dark-mode",
         "title": "Dark Mode",
-        "image": "https://betterux.io/static/images/ounass/dark-mode/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "image": "https://betterux.io/static/images/ounass/dark-mode/thumb.jpg?b589dadb4be2f7a20187832ce334b1fde4db0485",
         "galleryCount": 1
       }
     ]
@@ -42,7 +42,19 @@
       {
         "url": "more-items",
         "title": "More Items",
-        "image": "https://betterux.io/static/images/soundcloud/more-items/thumb.jpg?cf3d1716b0d17da46b4649b31d6fb9399f0689ff",
+        "image": "https://betterux.io/static/images/soundcloud/more-items/thumb.jpg?b589dadb4be2f7a20187832ce334b1fde4db0485",
+        "galleryCount": 1
+      }
+    ]
+  },
+  {
+    "url": "zomato",
+    "title": "Zomato",
+    "variations": [
+      {
+        "url": "gallery",
+        "title": "Gallery",
+        "image": "https://betterux.io/static/images/zomato/gallery/thumb.jpg?b589dadb4be2f7a20187832ce334b1fde4db0485",
         "galleryCount": 1
       }
     ]

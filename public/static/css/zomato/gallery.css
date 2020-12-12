@@ -1,0 +1,11 @@
+.sc-eOnLuU {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.sc-eOnLuU > img {
+  max-width: unset;
+  min-width: unset;
+  width: 90vh;
+  height: calc(100vh - 4rem);
+  object-fit: contain;
+}
