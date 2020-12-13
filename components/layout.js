@@ -8,6 +8,9 @@ export default function Layout({ title, children }) {
     <>
       <Head>
         <title>{title}</title>
+        <meta name="description" content={title} />
+        <meta name="keywords" content="UX, UI, Google, Ounass, Github, Soundcloud, WhatsApp, HTML, CSS, JavaScript" />
+        <meta name="author" content="Muhammad Umar - w3debugger" />
       </Head>
 
       <div className="page-site wrapper">

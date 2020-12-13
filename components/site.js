@@ -20,7 +20,7 @@ export default function Site({ url, title, limit, variations }) {
       <div className="site-banners">
         <div className="row">
           {limitVariations.map(variation => (
-            <div key={variation.title} className="col-sm-4">
+            <div key={variation.title} className="col-sm-3">
               <Card id={url} {...variation} />
             </div>
           ))}
